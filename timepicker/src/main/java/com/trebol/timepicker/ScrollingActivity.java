@@ -1,4 +1,4 @@
-package com.trebol.apidemos;
+package com.trebol.timepicker;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

@@ -1,4 +1,4 @@
-package com.trebol.apidemos;
+package com.trebol.timepicker;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

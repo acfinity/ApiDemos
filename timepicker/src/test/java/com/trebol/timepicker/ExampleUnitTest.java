@@ -1,4 +1,4 @@
-package com.trebol.apidemos;
+package com.trebol.timepicker;
 
 import org.junit.Test;
 
